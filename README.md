@@ -42,5 +42,9 @@
 ---
 
 ### 💬   Mail & Blog
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hihj070914@icloud.com"/>
-<img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/>
+<a href="mailto:hihj070914@icloud.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://tolerbalnc.github.io">
+  <img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/>
+</a>
