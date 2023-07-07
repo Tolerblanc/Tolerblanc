@@ -36,7 +36,7 @@
 <br>
 • **```Web Backend```** : Flask, FastAPI
 <br>
-• **```Etc```** : WebAssembly, WebGPU
+• **```Etc```** : WebAssembly, WebGPU, Docker
 <br>
 
 ---
