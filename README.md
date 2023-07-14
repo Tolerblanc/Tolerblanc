@@ -32,7 +32,7 @@
 ---
 
 ### 🔭   I'm Interested In
-• **```Data & AI```** : Data Pipeline, Mulit Modal, LLM, Model Serving and Deploy
+• **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy
 <br>
 • **```Web Backend```** : Flask, FastAPI
 <br>
