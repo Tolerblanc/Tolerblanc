@@ -34,9 +34,9 @@
 ### 🔭   I'm Interested In
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy
 <br>
-• **```Web Backend```** : Flask, FastAPI
+• **```Web Backend```** : Flask, FastAPI, NestJS
 <br>
-• **```Etc```** : WebAssembly, WebGPU, Docker
+• **```Etc```** : WebAssembly, Docker
 <br>
 
 ---
