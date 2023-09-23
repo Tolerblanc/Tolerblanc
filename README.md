@@ -26,7 +26,7 @@
  **```42Seoul```** - Common Core Learner (2020.09.28 ~)
 <br>
 
- **```KwangWoon University```** - Majoring in ```Data Science```, Current GPA [4.2 / 4.5] (2019.03.02 ~)
+ **```KwangWoon University```** - Majoring in ```Data Science``` (2019 ~ 2025[Expected])
 <br>
 
 ---
