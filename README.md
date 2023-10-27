@@ -22,12 +22,14 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihj070914)](https://solved.ac/hihj070914)
 
-[![hyunjuki's 42 stats](https://badge42.vercel.app/api/v2/cljk6c959009708l80ubaqerm/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+<!--[![hyunjuki's 42 stats](https://badge42.vercel.app/api/v2/cljk6c959009708l80ubaqerm/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)-->
 
 ---
 
 ### 🎓   I'm Currently Learning At
- **```42Seoul```** - Advanced Course Member (2023.10.25 ~) / Common Core Learner (2020.09.28 ~ 2023.10.25)
+ **```42Seoul```** - Advanced Course Member (2023.10.25 ~)
+<br>
+Common Core Learner (2020.09.28 ~ 2023.10.25)
 <br>
 
  **```KwangWoon University```** - Majoring in ```Data Science``` (2019 ~ 2025[Expected])
