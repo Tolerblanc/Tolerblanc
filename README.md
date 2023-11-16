@@ -40,9 +40,9 @@ Common Core Learner (2020.09.28 ~ 2023.10.25)
 ### 🔭   I'm Interested In
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy
 <br>
-• **```Web Backend```** : Flask, FastAPI, NestJS
+• **```Web Backend```** : FastAPI, NestJS
 <br>
-• **```Etc```** : WebAssembly, Docker
+• **```Etc```** : CI/CD, Docker
 <br>
 
 ---
@@ -51,6 +51,8 @@ Common Core Learner (2020.09.28 ~ 2023.10.25)
 <a href="mailto:hihj070914@icloud.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
+
+
 <a href="https://tolerblanc.github.io">
   <img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/>
 </a>
