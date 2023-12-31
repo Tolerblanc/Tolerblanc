@@ -40,9 +40,9 @@ Common Core Learner (2020.09.28 ~ 2023.10.25)
 ### 🔭   I'm Interested In
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy
 <br>
-• **```Web Backend```** : FastAPI, NestJS
+• **```Web Backend```** : Django, Spring, FastAPI, NestJS
 <br>
-• **```Etc```** : CI/CD, Docker
+• **```Etc```** : CI/CD, Docker, Kubernetes
 <br>
 
 ---
