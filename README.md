@@ -22,7 +22,7 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihj070914)](https://solved.ac/hihj070914)
 
-<!--[![hyunjuki's 42 stats](https://badge42.vercel.app/api/v2/cljk6c959009708l80ubaqerm/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tolerblanc?theme=wtf&font=Patrick%20Hand&ext=heatmap)
 
 ---
 
@@ -40,7 +40,7 @@ Common Core Learner (2020.09.28 ~ 2023.10.25)
 ### 🔭   I'm Interested In
 • **```Data & AI```** : Data Pipeline, Multi Modal, LLM, Model Serving and Deploy
 <br>
-• **```Web Backend```** : Django, Spring, FastAPI, NestJS
+• **```Web Backend```** : Spring, FastAPI, NestJS
 <br>
 • **```Etc```** : CI/CD, Docker, Kubernetes
 <br>
@@ -52,6 +52,7 @@ Common Core Learner (2020.09.28 ~ 2023.10.25)
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
+<br>
 
 <a href="https://tolerblanc.github.io">
   <img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/>
