@@ -12,6 +12,10 @@
 
 <br>
 
+- **``글또 (9th & 10th)``** - Writing and Sharing Technical Insights with Developers (2023.12 ~ Present)
+
+<br>
+
 - **``NAVER boostcamp Web⋅Mobile (9th)``** - Basic, Challenge & Membership (2024.07 ~ 2024.12)
 
 <br>
