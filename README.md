@@ -1,12 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HyunJun%20KIM&fontAlign=70&fontAlignY=40&color=gradient&animation=twinkling)
 
-<a href="mailto:hihj070914@icloud.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-
-<a href="https://tolerblanc.github.io">
-  <img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/>
-</a>
+[![Github Pages](https://img.shields.io/badge/Github%20Pages-222222?style=flat-square&logo=Github%20Pages&logoColor=white)](https://tolerblanc.github.io) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hihj070914@icloud.com) 
 
 <br><br>
 
