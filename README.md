@@ -8,11 +8,11 @@
 
 <br>
 
-- **``Toss Bank``** - Node.js Developer (2024.12 ~ Present)
+- **``Toss Bank``** - Node.js Developer (2024.12 ~ *Present*)
 
 <br>
 
-- **``글또 (9th & 10th)``** - Writing and Sharing Technical Insights with Developers (2023.12 ~ Present)
+- **``글또 (9th & 10th)``** - Writing and Sharing Technical Insights with Developers (2023.12 ~ *Present*)
 
 <br>
 
